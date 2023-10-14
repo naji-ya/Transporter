@@ -13,7 +13,7 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(backgroundColor: appbar, leading: const Icon(Icons.menu)),
-      backgroundColor: Colors.white,
+      backgroundColor: bgcolor,
       body: Padding(
         padding: const EdgeInsets.all(20.0),
         child: Column(

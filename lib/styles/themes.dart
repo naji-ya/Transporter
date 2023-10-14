@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-var bgcolor = const Color.fromARGB(255, 220, 242, 247);
+var bgcolor = const Color.fromARGB(255, 225, 244, 249);
 var buttoncolor = const Color.fromARGB(255, 10, 112, 167);
 var heading1 = Colors.black;
 var heading2 = Colors.grey.shade700;
